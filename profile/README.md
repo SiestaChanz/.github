@@ -3,13 +3,16 @@
     <img src="https://cdn.discordapp.com/attachments/893068961116225567/943053270375608360/FB_IMG_1642503622583.jpg" width="75%"></img> 
   </a>
   
-  <a href="https://siesta-chan.vercel.app">
+---------
+  <a href="https://discord.gg/T9vdMrcCph">
+    <img src="https://discordapp.com/api/guilds/1008523483199852565/widget.png?style=banner2" alt="Discord server">
+  </a>
   
   ![Website](https://img.shields.io/website?down_color=red&down_message=OFFLINE&label=STATUS&style=for-the-badge&up_color=lime&up_message=ONLINE&url=https%3A%2F%2Frailway.app%2Fproject%2Fb32c4b2d-cda3-4d59-9a6f-e7885f6ef575)
-</a>
-  <a href="https://discord.gg/2UshYsFfCP">
+<!-- </a>
+  <a href="https://discord.gg/T9vdMrcCph">
   ![Discord](https://img.shields.io/discord/826406117658853417?logo=discord&style=for-the-badge)
-</a>
+</a> -->
 <!--   ![GitHub all releases](https://img.shields.io/github/downloads/MGalaCyber/Discord-Chatbot-AI/total?style=for-the-badge)
   ![GitHub forks](https://img.shields.io/github/forks/MGalaCyber/Discord-Chatbot-AI?logo=github&style=for-the-badge)
   ![GitHub contributors](https://img.shields.io/github/contributors/MGalaCyber/Discord-Chatbot-AI?logo=github&style=for-the-badge)
@@ -107,7 +110,7 @@ You can also chat with the bot in DMs!
 ---------
 # 💝 Credit
 If consider using this Bot, make sure to credit me!
-### [MGalaCyber](https://github.com/MGalaCyber) | [Website](https://galacyber.vercel.app) | [Siesta-chan](https://siesta-chan.vercel.app) | [Discord](https://discord.gg/2UshYsFfCP)
+### [MGalaCyber](https://github.com/MGalaCyber) | [Website](https://galacyber.vercel.app) | [Siesta-chan](https://siesta-chan.vercel.app) | [Discord](https://discord.gg/T9vdMrcCph)
 <!-- 
 ---------
 # 📜 Licence
