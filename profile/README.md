@@ -103,6 +103,7 @@ You can also chat with the bot in DMs!
 - [Ko-Fi](https://ko-fi.com/MGalaCyber1274)
 
 ### 💠 Voting the bots
+
 <a href="https://top.gg/bot/869755197046530060">
   <img src="https://top.gg/api/widget/869755197046530060.svg">
 </a>
