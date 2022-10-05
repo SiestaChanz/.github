@@ -35,11 +35,8 @@ These are the steps to make YOUR (own!!!) chatbot using Node JS
 ## 📚 Package Library:
 - [Discord.js](https://discord.js.org/)
 - [Chalk](https://www.npmjs.com/package/chalk)
-- [Clever-chat](https://www.npmjs.com/package/clever-chat)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Express](https://www.npmjs.com/package/express)
-- [Glob](https://www.npmjs.com/package/glob)
-- [Quick.db](https://www.npmjs.com/package/quick.db)
 
 ### Bots Version:
 > ![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/MGalaCyber/Discord-Chatbot-AI?color=lime&style=for-the-badge)
