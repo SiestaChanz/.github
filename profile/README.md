@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://siesta-chan.vercel.app">
-    <img src="https://cdn.discordapp.com/attachments/893068961116225567/943053270375608360/FB_IMG_1642503622583.jpg" width="75%"></img> 
+    <img src="https://cdn.discordapp.com/attachments/893068961116225567/943053270375608360/FB_IMG_1642503622583.jpg" width="50%"></img> 
   </a>
   
 ---------
@@ -24,76 +24,16 @@
 </div>
 
 ---------
-
 # 💬 Awesome Chatbot!
 
-Hey there! Looking to make a chatbot? Here is your right place!
+Siesta-chan is a friendly and interactive Discord bot designed to provide an engaging chatbot experience on your Discord server. With advanced communication capabilities, Siesta-chan can be a fun virtual companion for users on your server.
 
-These are the steps to make YOUR (own!!!) chatbot using Node JS
+One of Siesta-chan's main features is its ability to interact with users through conversation. Using advanced natural language processing technology, Siesta-chan can understand questions, requests, and commands from users accurately. Siesta-chan provides relevant and informative responses, making users feel like they're chatting with a human friend.
 
-<!-- -----
-## 📚 Package Library:
-- [Discord.js](https://discord.js.org/)
-- [Chalk](https://www.npmjs.com/package/chalk)
-- [Dotenv](https://www.npmjs.com/package/dotenv)
-- [Express](https://www.npmjs.com/package/express)
+Siesta-chan memiliki antarmuka yang intuitif dan mudah digunakan, sehingga dapat diakses dengan mudah oleh semua anggota server. Bot ini juga diperbarui secara teratur dengan pembaruan fitur dan peningkatan kinerja, sehingga selalu memberikan pengalaman terbaik bagi pengguna.
 
-### Bots Version:
-> ![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/MGalaCyber/Discord-Chatbot-AI?color=lime&style=for-the-badge)
----------
+Dengan Siesta-chan di server Discord Anda, pengguna dapat menikmati kehadiran bot yang responsif, ramah, dan memberikan pengalaman chatbot yang menarik. Siesta-chan adalah teman virtual yang sempurna untuk menjaga server Anda tetap hidup dan menyenangkan.
 
-## ⚙ Configuration
-- ⚠ Never share your tokens or api keys publicly
-- Create and Modify `.env` and fill out the values:
-```env
-TOKEN="discord-bot-token"
-PREFIX="your-prefix"
-OWNER="discord-user-id"
-NEW_GUILD_JOIN="discord-channel-id-for-joining-guild-notification"
-NEW_GUILD_LEAVE="discord-channel-id-for-leave-guild-notification"
-BugsChannel="discord-channel-id-for-bugsreport"
-FeedbackChannel="discord-channel-id-for-feedback"
-```
-
----------
-## 📥 INSTALLATION
-
-> #### 🧩 FOR DEPLOY HEROKU USER
-
-<p><a href="https://heroku.com/deploy?template=https://github.com/MGalaCyber/Discord-Chatbot-AI"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
-
-```
-> Step 1: First, Deploy This Repository to Heroku.
-> Step 2: Then, Fill in all the empty fields that are already available
-> Step 3: Then, Click Button "Deploy App", and wait until the build process is complete
-
-Now, it should show your bot is online!!
-```
-
----------
-
-> #### 🧩 FOR REPL.IT USER
-
-[![Run on Repl.it](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://repl.it/github/MGalaCyber/Discord-Chatbot-AI)<br>
-
-```
-> Step 1: First, fork this repository, then clone that repository from repl.it.
-> Step 2: Once your repl is ready, check your sidebar and see a lock sign. There, you should put TOKEN="-" as your key, and as value, your bot token.
-> Step 3: Add your Discord ID in OWNER="-", add "PREFIX="-", NEW_GUILD_JOIN="-", NEW_GUILD_LEAVE="-", BugsChannel="-", and add "FeedbackChannel="-"
-> Step 4: Add your bot customisations in chatSend.js, when requiring clever-chat
-> Step 5: Go to your "SHELL" in your right, and copy/paste run this command `npm i axios@0.21.1 chalk@4.1.1 clever-chat@8.0.0 discord.js@12.5.3 dotenv@10.0.0 express@4.17.1 quick.db@7.1.3`
-> Step 6: Go to "index.js" file and click on "RUN" in repl.it.
-
-Now, it should show your bot is online!!
-```
-
----------
-
-Now, if you see your bot is online, or "streaming" mode as I set it to, run the command `{your bot prefix here}setchat #some-channel-name-here`
-Go to that channel, and say Hi, and have a lovely chat!
-
-You can also chat with the bot in DMs!
- -->
 ---------
 # 💖 Support
 - [Saweria](https://saweria.co/Galaxy1274)
