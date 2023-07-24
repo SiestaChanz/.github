@@ -30,9 +30,9 @@ Siesta-chan is a friendly and interactive Discord bot designed to provide an eng
 
 One of Siesta-chan's main features is its ability to interact with users through conversation. Using advanced natural language processing technology, Siesta-chan can understand questions, requests, and commands from users accurately. Siesta-chan provides relevant and informative responses, making users feel like they're chatting with a human friend.
 
-Siesta-chan memiliki antarmuka yang intuitif dan mudah digunakan, sehingga dapat diakses dengan mudah oleh semua anggota server. Bot ini juga diperbarui secara teratur dengan pembaruan fitur dan peningkatan kinerja, sehingga selalu memberikan pengalaman terbaik bagi pengguna.
+Siesta-chan has an intuitive and easy-to-use interface, so it can be easily accessed by all server members. The bot is also regularly updated with feature updates and performance improvements, so it always provides the best user experience.
 
-Dengan Siesta-chan di server Discord Anda, pengguna dapat menikmati kehadiran bot yang responsif, ramah, dan memberikan pengalaman chatbot yang menarik. Siesta-chan adalah teman virtual yang sempurna untuk menjaga server Anda tetap hidup dan menyenangkan.
+With Siesta-chan on your Discord server, users can enjoy the presence of a bot that is responsive, friendly, and provides an engaging chatbot experience. Siesta-chan is the perfect virtual companion to keep your server lively and fun.
 
 ---------
 # 💖 Support
